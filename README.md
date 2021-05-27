@@ -10,7 +10,7 @@ Long Description about project. This project do that. This project is awesome...
 ## Team Id
 BFH/recjIFZU7ZhZBczca/2021
 ## Link to product walkthrough
-[link to video]
+[https://drive.google.com/file/d/1rreuVtxe6rp6Zx9Adni6a0ntrpgRdKxc/view?usp=drivesdk]
 ## How it Works ?
 1. Step 1:User can sign up by providing their name, email id and password.
 2. Step 2:User can navigate through the products and find the product of their choice.
